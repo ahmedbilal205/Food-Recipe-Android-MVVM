@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_projects/foodRecipes/app/src/main/res/drawable/img_failed.xml" value="0.107" />
+        <entry key="..\:/Android_projects/foodRecipes/app/src/main/res/layout/activity_recipe.xml" value="0.16077898550724637" />
+        <entry key="..\:/Android_projects/foodRecipes/app/src/main/res/layout/layout_search_exhausted.xml" value="0.14947916666666666" />
+        <entry key="..\:/Android_projects/foodRecipes/app/src/main/res/menu/recipe_search_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
