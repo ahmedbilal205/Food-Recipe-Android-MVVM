@@ -5,9 +5,9 @@ App also implements pagination in it's recycler view
 
 ScreenShots: 
 
-![alt text](https://ibb.co/sqwT023)
-![alt text](https://ibb.co/rxhfsxN)
-![alt text](https://ibb.co/YZSrF63)
+![alt text](https://i.ibb.co/XtsnhbJ/4.png)
+![alt text](https://i.ibb.co/ZBr1mB7/5.png)
+![alt text](https://i.ibb.co/rshWRgm/Screenshot-1654640822.png)
 
 
 
